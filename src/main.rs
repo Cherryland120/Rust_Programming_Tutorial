@@ -1,3 +1,7 @@
+mod gigasecond;
+mod allintegers;
+mod reverse_string;
+
 fn main() {
     let ts = std::io::stdin();
     let mut inputted = "".to_string();
